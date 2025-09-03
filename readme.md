@@ -22,7 +22,7 @@ of network realms.
 Pinoy Net-Killers • PH Cyber Wall • The Pinoy Cyber Syndicate • Sociedad del Código
 Ghost Process PH • SQLi Squadron • APKalypto • C2mmand & Control • PH Cyber Cartel
 PHirmware Phlair • Covert Cyber-Kali • Cyber Cartel de Manila • Dwende Defense Bypass
-DDoS Davao del Sur
+• DDoS Davao del Sur
 
 ⚔️ THE GREAT BATTLE OF LAYER 7
 
