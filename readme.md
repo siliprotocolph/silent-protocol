@@ -44,7 +44,7 @@ Prerequisites:
 Incantation Setup:
 
 # Summon the repository from the Spare Oom
-git clone https://github.com/siliprotocolph/silent-protocol.git
+git clone https://github.com/SilentProtocol/framework.git
 cd silent-protocol
 
 # Brew the magical dependencies
@@ -89,16 +89,50 @@ exit                          - Exit application (Return to Spare Oom)
 1. TSUNAMI FLOOD 🌊
    "The Great Wave from the Eastern Sea"
    Purpose: High-volume HTTP/2 traffic that crashes like ocean waves
-   Best for: Bandwidth saturation testing against the White Witch's castle
+   Best for: Bandwidth saturation testing
    Usage: tsunami <url> <threads> <time>
 
 2. HURRICANE FLOOD 🌪️
    "The Gryphon's Whirlwind Assault"  
    Purpose: Multi-vector combined attack from all directions
-   Best for: Comprehensive system testing against fortified positions
+   Best for: Comprehensive system testing
    Usage: hurricane <url> <threads> <time>
 
-[6 more weapons described with similar Narnia-themed metaphors...]
+3. PHANTOM FLOOD 👻
+   "The Mr. Tumnus Stealth Approach"
+   Purpose: Low-signature testing with randomized patterns
+   Best for: Evasion testing against security systems
+   Usage: phantom <url> <threads> <time>
+
+4. AVALANCHE FLOOD ❄️
+   "The White Witch's Rapid Succession Spell"
+   Purpose: Rapid successive requests overwhelming processing
+   Best for: Request processing testing
+   Usage: avalanche <url> <threads> <time>
+
+5. BLIZZARD FLOOD 🌀
+   "The Endless Winter Persistent Connection Assault"
+   Purpose: Persistent connection testing and exhaustion
+   Best for: Connection pool testing
+   Usage: blizzard <url> <threads> <time>
+
+6. LIGHTNING FLOOD ⚡
+   "The Quick Strike of Father Time"
+   Purpose: Ultra-fast single-packet attacks
+   Best for: Network stack testing
+   Usage: lightning <url> <threads> <time>
+
+7. CYCLONE FLOOD 🌪️
+   "The Rotating Attack Vectors of the Dancing Lawn"
+   Purpose: Rotating attack methodologies and techniques
+   Best for: Multi-layer defense testing
+   Usage: cyclone <url> <threads> <time>
+
+8. INFERNO FLOOD 🔥
+   "Aslan's Breath of Maximum Intensity"
+   Purpose: Resource exhaustion and system stress testing
+   Best for: Comprehensive infrastructure resilience testing
+   Usage: inferno <url> <threads> <time>
 
 🏰 CASTLE CONFIGURATION
 
