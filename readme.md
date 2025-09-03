@@ -44,7 +44,7 @@ Prerequisites:
 Incantation Setup:
 
 # Summon the repository from the Spare Oom
-git clone https://github.com/SilentProtocol/framework.git
+git clone https://github.com/siliprotocolph/silent-protocol.git
 cd silent-protocol
 
 # Brew the magical dependencies
