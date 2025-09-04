@@ -5,3 +5,4 @@ colorama
 undetected_chromedriver
 httpx
 fake_useragents
+aiohttp
