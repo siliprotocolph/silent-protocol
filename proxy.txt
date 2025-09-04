@@ -1,8 +1,3 @@
-# The Silent Protocol - Proxy Configuration File
-# Save this as proxy.txt in your resources folder
-# Format: protocol://ip:port  OR  protocol://user:pass@ip:port
-
-# HTTP/HTTPS Proxies
 http://160.22.20.231:8080
 http://103.35.111.233:19753
 http://27.147.217.102:6969
@@ -31,7 +26,6 @@ http://103.254.85.66:8080
 http://114.130.175.18:8080
 http://27.147.131.122:8090
 
-# SOCKS Proxies
 socks5://186.231.33.58:61804
 socks5://177.11.190.84:8080
 socks5://138.0.140.51:8080
@@ -48,7 +42,6 @@ socks5://45.228.192.107:3141
 socks5://177.125.208.126:8080
 socks5://179.125.61.201:8080
 
-# Premium/Residential Proxies
 http://191.243.46.33:43241
 http://187.19.201.48:8080
 http://177.68.149.122:8080
@@ -60,7 +53,6 @@ http://45.182.176.38:9947
 http://191.37.66.225:8080
 http://45.236.112.9:60399
 
-# High-Anonymity Proxies
 http://187.61.98.7:8080
 http://187.62.241.136:8080
 http://45.227.195.121:8082
@@ -72,7 +64,6 @@ http://204.199.139.124:999
 http://204.199.140.9:999
 http://45.4.0.23:999
 
-# Asian Region Proxies
 http://39.102.214.208:10002
 http://8.138.82.6:8443
 http://39.102.213.213:80
@@ -83,7 +74,6 @@ http://8.138.82.6:3128
 http://47.120.0.231:8081
 http://39.102.208.189:8443
 
-# Additional Proxy Servers
 http://47.121.133.212:8080
 http://114.215.127.92:8118
 http://47.108.159.113:80
@@ -94,12 +84,3 @@ http://47.119.19.221:8085
 http://121.43.154.123:9080
 http://39.102.208.149:8080
 http://39.104.57.33:8081
-
-# Instructions:
-# 1. Save this file as proxy.txt in your resources folder
-# 2. Remove the # from lines you want to activate
-# 3. Add authentication if required: http://user:pass@ip:port
-# 4. The tool will automatically rotate through active proxies
-
-# Note: Always verify proxy functionality before use
-# Some proxies may require authentication or be inactive
