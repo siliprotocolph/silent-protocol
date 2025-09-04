@@ -1,0 +1,105 @@
+# The Silent Protocol - Proxy Configuration File
+# Save this as proxy.txt in your resources folder
+# Format: protocol://ip:port  OR  protocol://user:pass@ip:port
+
+# HTTP/HTTPS Proxies
+http://160.22.20.231:8080
+http://103.35.111.233:19753
+http://27.147.217.102:6969
+http://103.231.239.137:58080
+http://103.214.82.79:8080
+http://103.49.114.195:8080
+http://45.125.222.81:8080
+http://119.18.146.114:5020
+http://58.147.171.12:8085
+http://103.231.239.6:58080
+http://103.245.109.57:39355
+http://27.147.144.230:58080
+http://103.77.62.134:8080
+http://27.147.177.74:58080
+http://103.218.25.146:8080
+http://103.35.108.244:2024
+http://180.149.234.73:6214
+http://103.171.233.72:8080
+http://103.60.204.18:80
+http://103.138.145.34:80
+http://103.10.55.137:8664
+http://182.252.69.197:8080
+http://103.117.192.10:80
+http://36.50.11.196:8080
+http://103.254.85.66:8080
+http://114.130.175.18:8080
+http://27.147.131.122:8090
+
+# SOCKS Proxies
+socks5://186.231.33.58:61804
+socks5://177.11.190.84:8080
+socks5://138.0.140.51:8080
+socks5://186.235.123.3:8080
+socks5://177.200.80.6:11221
+socks5://206.42.19.65:8080
+socks5://45.163.238.254:8080
+socks5://177.69.223.57:3128
+socks5://187.84.176.2:8080
+socks5://45.174.191.135:8080
+socks5://191.242.111.26:8080
+socks5://186.215.87.194:30011
+socks5://45.228.192.107:3141
+socks5://177.125.208.126:8080
+socks5://179.125.61.201:8080
+
+# Premium/Residential Proxies
+http://191.243.46.33:43241
+http://187.19.201.48:8080
+http://177.68.149.122:8080
+http://170.78.5.214:8080
+http://170.81.171.189:8282
+http://177.101.86.13:3128
+http://187.19.198.130:8080
+http://45.182.176.38:9947
+http://191.37.66.225:8080
+http://45.236.112.9:60399
+
+# High-Anonymity Proxies
+http://187.61.98.7:8080
+http://187.62.241.136:8080
+http://45.227.195.121:8082
+http://201.46.24.174:3128
+http://38.7.221.191:8080
+http://200.95.184.62:999
+http://179.61.110.253:999
+http://204.199.139.124:999
+http://204.199.140.9:999
+http://45.4.0.23:999
+
+# Asian Region Proxies
+http://39.102.214.208:10002
+http://8.138.82.6:8443
+http://39.102.213.213:80
+http://39.102.213.50:8081
+http://47.121.183.107:9080
+http://47.119.22.156:9098
+http://8.138.82.6:3128
+http://47.120.0.231:8081
+http://39.102.208.189:8443
+
+# Additional Proxy Servers
+http://47.121.133.212:8080
+http://114.215.127.92:8118
+http://47.108.159.113:80
+http://39.104.27.89:8004
+http://39.102.210.176:8008
+http://121.43.146.222:8443
+http://47.119.19.221:8085
+http://121.43.154.123:9080
+http://39.102.208.149:8080
+http://39.104.57.33:8081
+
+# Instructions:
+# 1. Save this file as proxy.txt in your resources folder
+# 2. Remove the # from lines you want to activate
+# 3. Add authentication if required: http://user:pass@ip:port
+# 4. The tool will automatically rotate through active proxies
+
+# Note: Always verify proxy functionality before use
+# Some proxies may require authentication or be inactive
